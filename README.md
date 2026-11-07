@@ -22,4 +22,4 @@ Python · PyTorch · JAX · TensorFlow · scikit-learn · MATLAB · SQL · Git
 
 #### Contact
 
-prajaei@cougarnet.uh.edu 
+prajaei@cougarnet.uh.edu · [LinkedIn](https://www.linkedin.com/in/pedram-rajaei)
